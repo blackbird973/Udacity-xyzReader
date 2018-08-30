@@ -9,6 +9,6 @@ My work for the XYZ Reader app
 
 ##Some screenshots
 
-![pjimage 2](https://user-images.githubusercontent.com/10677178/44877268-b6b8a100-aca3-11e8-83c2-25758a127d15.jpg) 
+![pjimage 1](https://user-images.githubusercontent.com/10677178/44875797-82db7c80-ac9f-11e8-98f5-2f8706f8dedd.jpg)
 
 
