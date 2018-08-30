@@ -6,3 +6,8 @@ My work for the XYZ Reader app
 - Apply Material Design guidelines to an mobile application.
 - Separate an interface into surfaces.
 - Effectively use transitions and motion.
+
+##Some screenshots
+
+![pjimage 2](https://user-images.githubusercontent.com/10677178/44877191-78bb7d00-aca3-11e8-949e-f864b4ab3f07.jpg)
+
